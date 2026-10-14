@@ -1,2 +1,2 @@
 my git-practice
-Getting started
+Getting startedThis is my practice
