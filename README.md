@@ -1,2 +1,5 @@
-my git-practice
-Getting startedThis is my practice
+# My git Practice
+
+Getting started 
+
+This is my practice branch
